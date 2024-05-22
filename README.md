@@ -1,2 +1,3 @@
 # Weather-forecasting
-https://github.com/Varnikaaa19/Weather-forecasting-.git
+ https://varnikaaa19.github.io/Weather-forecasting-/
+ 
